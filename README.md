@@ -1,4 +1,4 @@
-# Genimic Language Model
+# Genomic Language Model
 
 **Optimizing Genomic Language Models for Promoter Prediction: A Comparative Study of Tokenization and Cross-Species Learning**
 
